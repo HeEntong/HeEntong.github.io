@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/03/06/Amortized%20Analysis/</loc>
+    <loc>http://example.com/2022/02/28/ML/</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/02/28/ML/</loc>
+    <loc>http://example.com/2022/03/06/Amortized%20Analysis/</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -97,13 +97,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Amortized-Analysis/</loc>
-    <lastmod>2022-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Linear-Algebra/</loc>
     <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,6 +105,13 @@
   
   <url>
     <loc>http://example.com/tags/Machine-Learning/</loc>
+    <lastmod>2022-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Amortized-Analysis/</loc>
     <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -128,13 +128,6 @@
   
   <url>
     <loc>http://example.com/categories/Algorithms/</loc>
-    <lastmod>2022-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/Algorithm/</loc>
     <lastmod>2022-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
