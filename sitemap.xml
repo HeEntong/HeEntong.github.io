@@ -99,7 +99,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Amortized-Analysis/</loc>
+    <loc>http://example.com/tags/Linear-Algebra/</loc>
     <lastmod>2022-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Linear-Algebra/</loc>
+    <loc>http://example.com/tags/Amortized-Analysis/</loc>
     <lastmod>2022-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
